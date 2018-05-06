@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Steam Auto Queue
-// @namespace    https://github.com/FiveElementNinja/Steam-Auto-Queue/
-// @version      1.0.1
+// @namespace    https://github.com/woctezuma/Steam-Auto-Queue/
+// @version      1.0.1 forked
 // @description  This script will automatically click through your discovery queue so you can get a sale card.
-// @author       Five Element Ninja (Twitter: @FivElementNinja)
+// @author       Wok
 // @match        *://store.steampowered.com/app/*
 // @match        *://store.steampowered.com/agecheck/app/*
-// @updateURL    https://raw.githubusercontent.com/FiveElementNinja/Steam-Auto-Queue/master/steam-auto-queue.user.js
-// @downloadURL  https://raw.githubusercontent.com/FiveElementNinja/Steam-Auto-Queue/master/steam-auto-queue.user.js
+// @updateURL    https://raw.githubusercontent.com/woctezuma/Steam-Auto-Queue/timer/steam-auto-queue.user.js
+// @downloadURL  https://raw.githubusercontent.com/woctezuma/Steam-Auto-Queue/timer/steam-auto-queue.user.js
 // @grant        none
 // ==/UserScript==
 /* jshint -W097 */
