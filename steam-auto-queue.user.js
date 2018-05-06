@@ -21,7 +21,10 @@
             var appid = window.location.pathname.replace('/agecheck', '').replace('/app/', '');
             HideAgeGate(appid);
         } else {
+          setTimeout(function() {
+            //Code to run After timeout elapses
             $J('#next_in_queue_form').submit();
+            }, 2000);
         }
 	}
 	catch(err) {
